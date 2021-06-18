@@ -1,0 +1,1 @@
+vayu local_manifest
