@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote  name="PacMM79" fetch="https://github.com/"/>
+  <remote  name="xawlw" fetch="https://github.com/"/>
+  <project name="PacMM79/android_device_xiaomi_vayu" path="device/xiaomi/vayu" revision="crdroid-11.0" remote="PacMM79"/>
+  <project name="xawlw/android_kernel_xiaomi_vayu" path="kernel/xiaomi/vayu" revision="11" remote="xawlw"/>
+  <project name="PacMM79/android_vendor_xiaomi_vayu" path="vendor/xiaomi/vayu" revision="crdroid-11.0" remote="PacMM79"/>
+</manifest>
